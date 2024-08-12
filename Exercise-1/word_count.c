@@ -58,6 +58,4 @@ int main(int argc, char *argv[]){
     return 0;
 }
 
-// https://github.com/MeliArchilleGael/quiz-app.git
-
 // page 85
